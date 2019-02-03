@@ -3,7 +3,7 @@
 Your classes are fantastic!!
 > - Anna 
 
-This class is about to learn version control. I followed this practice from my class assignment module 4 that make practice several tutorials to get familiar with github.
+This class is about to learn version control. I followed this practice from my class assignment module 4 that make me practice several tutorials to get familiar with github.
 
 I used the [editor on GitHub](https://github.com/stepandrew/stepandrew.github.io/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
 
@@ -40,17 +40,17 @@ you can use until 6 Headers with #
 ***
 
 - List
-list of **names**
+list of **use**
 1. _Numbered_
 2. _List_
 3. For using a Bold
      **Bold** 
      ** explane** 
-4.For using Italic
+ 4.For using Italic
      _Italic_ 
       _List_
 
-`Code` text
+  5. `Code` text
 
 It's about how to link websites.
 [link to Google!](http://google.com)
@@ -61,7 +61,9 @@ It's about how to link images. Becareful about format!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### our online textbook offer with several languages.
+Pro Git (2nd edition) by Scott Chacon and Ben Straub[(Free Online!)](https://git-scm.com/book/en/v2) 
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stepandrew/stepandrew.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
