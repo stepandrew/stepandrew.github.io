@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/stepandrew/stepandrew.gith
 Whenever you **commit** to this repository, *GitHub* Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [link to Google!](http://google.com)
 
 I praticed by edit this page.
+![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
+
 
 ### Markdown ###
 
