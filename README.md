@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/stepandrew/stepandrew.gith
 
 Whenever you commit to this repository, *GitHub* Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [link to Google!](http://google.com)
 
+I praticed by edit this page.
+
 ### Markdown ###
 
 Markdown is a lightweight and easy-to-use syntax for **styling** your writing. It includes conventions for
@@ -14,9 +16,19 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+> - Anna
+###### header 6
 
-- Bulleted
+#Bullete practice
+### Bulleted
+* items in my bag
+  1. pencils
+  2. pens
+
+**
+***
 - List
+list of *names*
 
 1. Numbered
 2. List
@@ -24,7 +36,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link to Google](http://google.com) and ![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
