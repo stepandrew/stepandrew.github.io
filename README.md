@@ -28,10 +28,10 @@ Syntax highlighted code block
 **
 ***
 - List
-list of *names*
+list of **names**
 
-1. Numbered
-2. List
+1. _Numbered_
+2. _List_
 3.** explane** headers
 
 **Bold** and _Italic_ and `Code` text
