@@ -1,12 +1,17 @@
-## Welcome to Anna's GitHub Pages to learn 
+## Welcome to Anna's CSHU250 Practice  
 
 Your classes are fantastic!!
 > - Anna 
-You can use the [editor on GitHub](https://github.com/stepandrew/stepandrew.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you **commit** to this repository, *GitHub* Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [link to Google!](http://google.com)
+This class is about to learn version control. I followed this practice from my class assignment module 4 that make practice several tutorials to get familiar with github.
 
-I praticed by edit this page.
+I used the [editor on GitHub](https://github.com/stepandrew/stepandrew.github.io/edit/master/README.md) to maintain and preview the content for my website in Markdown files.
+
+Whenever I **commit** to this repository, *GitHub* Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in my site, from the content in my Markdown files. [link to Google!](http://google.com)
+
+I praticed this page by edit and commit channge.
+Here is the image from Github images. I mentioned inside the **Markdown**
+
 ![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
 
 
@@ -15,14 +20,15 @@ I praticed by edit this page.
 Markdown is a lightweight and easy-to-use syntax for **styling** your writing. It includes conventions for
 
 ```markdown
+Bellow are explanation of how to use markdown
 
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
-> - Anna
-###### header 6
+you can use until 6 Headers with #
+###### Header 6
 
 #Bullete practice
 ### Bulleted
@@ -32,16 +38,24 @@ Syntax highlighted code block
 
 **
 ***
+
 - List
 list of **names**
-
 1. _Numbered_
 2. _List_
-3.** explane** headers
+3. For using a Bold
+     **Bold** 
+     ** explane** 
+4.For using Italic
+     _Italic_ 
+      _List_
 
-**Bold** and _Italic_ and `Code` text
+`Code` text
 
+It's about how to link websites.
 [link to Google!](http://google.com)
+
+It's about how to link images. Becareful about format!
 ![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
 ```
 
