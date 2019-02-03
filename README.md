@@ -36,7 +36,8 @@ list of **names**
 
 **Bold** and _Italic_ and `Code` text
 
-[Link to Google](http://google.com) and ![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
+[link to Google!](http://google.com)
+![Image of Yaktocat in Github images](https://octodex.github.com/images/yaktocat.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
