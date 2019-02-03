@@ -1,7 +1,7 @@
 ## Welcome to Anna's GitHub Pages to learn 
 
 You can use the [editor on GitHub](https://github.com/stepandrew/stepandrew.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-> - Anna
+> - Anna :
 Whenever you **commit** to this repository, *GitHub* Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. [link to Google!](http://google.com)
 
 I praticed by edit this page.
